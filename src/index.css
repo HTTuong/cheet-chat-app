@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap');
+
+:root {
+    --primary-color: #6f0000;
+    --secondary-color: #200122;
+
+    --text-color: #1b1c1b;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Lora', serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    overflow-y: overlay;
+}
+
+button,
+input,
+[tabindex] {
+    background: none;
+    outline: none;
+    border: none;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    color: var(--text-color);
+    outline: none;
+    text-decoration: none;
+}
