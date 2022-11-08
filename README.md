@@ -7,4 +7,4 @@
 * https://httuong-chat-app.netlify.app/
 
 ### Some snapshots in real devices
-![alt](https://drive.google.com/file/d/1hqUZvJkChM5oOB0Mk_qvlg62b2E5ZC2j/view?usp=share_link)
+![login screen](https://drive.google.com/file/d/1hqUZvJkChM5oOB0Mk_qvlg62b2E5ZC2j/view)
