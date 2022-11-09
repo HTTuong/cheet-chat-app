@@ -10,9 +10,9 @@
 
 ## Some snapshots in real devices
 
-<img src="/images/login.png" alt="Login Screen" />
+<img src="/images/login.png" alt="Login Screen" style='box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;'/>
 
-<img src="/images/chatroom2.png" alt="Chat room" />
+<img src="/images/chatroom2.png" alt="Chat room" style='box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;' />
 
 ## Main Techniques and Tools
 
