@@ -16,11 +16,11 @@
 
 ## Main Techniques and Tools
 
--   `**ReactJS**`: used to build the client-side logic
--   `**Firebase**`: used to make the server for this app
--   `**Ant Design**`: used to build client-side user interface
--   `**Github**`: used to manage the source code
--   `**Visual Studio Code**`: used to write code
--   `**Netlify**`: used to deploy this project
+-   **`ReactJS`**: used to build the client-side logic
+-   **`Firebase`**: used to make the server for this app
+-   **`Ant Design`**: used to build client-side user interface
+-   **`Github`**: used to manage the source code
+-   **`Visual Studio Code`**: used to write code
+-   **`Netlify`**: used to deploy this project
 
 ## Technique details
