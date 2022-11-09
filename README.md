@@ -10,8 +10,17 @@
 
 ## Some snapshots in real devices
 
--   Login screen:
-    <img src="/images/login.png" alt="Login Screen" style="height: 200px; width:200px;"/>
+<img src="/images/login.png" alt="Login Screen" />
 
--   Chat room:
-    <img src="/images/chatroom2.png" alt="Chat room" style="height: 200px; width:200px;"/>
+<img src="/images/chatroom2.png" alt="Chat room" />
+
+## Main Techniques and Tools
+
+-   `**ReactJS**`: used to build the client-side logic
+-   `**Firebase**`: used to make the server for this app
+-   `**Ant Design**`: used to build client-side user interface
+-   `**Github**`: used to manage the source code
+-   `**Visual Studio Code**`: used to write code
+-   `**Netlify**`: used to deploy this project
+
+## Technique details
