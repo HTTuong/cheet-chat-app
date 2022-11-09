@@ -24,3 +24,7 @@
 -   **`Netlify`**: used to deploy this project
 
 ## Technique details
+
+-   **`Client Side`**: ReactJS, React-Router, React-Hooks, Styled Component, HTML5, CSS - SCSS, TypeScript, Ant Design , Emoji-Mart, GIPHY react-components
+-   **`Server Side`**: Firebase, Firestore, Firebase's Authentication
+-   **`Deployment`**: Netlify (CI/CD for client)
