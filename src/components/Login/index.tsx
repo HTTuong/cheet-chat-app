@@ -5,7 +5,6 @@ import { Typography, Button } from 'antd';
 import { GoogleIcon, FacebookIcon } from '../Icons';
 import { auth } from '~root/firebase/config';
 import { addDocument, generateKeywords } from '~root/firebase/services';
-
 import styled from 'styled-components';
 
 const cx = classNames.bind(classes);
@@ -18,7 +17,6 @@ const SButton_ButtonLogin = styled(Button)`
     justify-content: center;
     width: 100%;
     padding: 1.8rem 1.6rem;
-    margin-bottom: 2rem;
     font-weight: 700;
     border: 1px solid rgb(207, 217, 222);
     border-radius: 9999px;
@@ -96,6 +94,11 @@ export default function Login() {
                             <GoogleIcon width="2rem" height="2rem" />
                             Log in with Google
                         </SButton_ButtonLogin>
+                        <div className={cx('separate')}>
+                            <div className={cx('separate-line')}></div>
+                            <p className={cx('separate-description')}>Or</p>
+                            <div className={cx('separate-line')}></div>
+                        </div>
                         <SButton_ButtonLogin
                             className={cx('login__btn')}
                             style={{ wordSpacing: ' -0.4rem' }}

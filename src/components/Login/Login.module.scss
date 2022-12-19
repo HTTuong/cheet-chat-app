@@ -49,6 +49,9 @@
 
 .login {
     width: 30rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
     &__btn {
         display: flex;
@@ -56,7 +59,6 @@
         justify-content: center;
         width: 100%;
         padding: 0.8rem 1.6rem;
-        margin-bottom: 2rem;
         font-weight: 700;
         border: 1px solid rgb(207, 217, 222);
         border-radius: 9999px;
@@ -78,8 +80,29 @@
     }
 }
 
+.separate {
+    display: flex;
+    align-items: center;
+    padding: 0.6rem 0;
+
+    & .separate-description {
+        font-size: 1.3rem;
+        color: rgba(0, 0, 0, 0.85);
+        line-height: 2rem;
+        padding: 0 1rem;
+        margin: 0;
+    }
+
+    & .separate-line {
+        height: 0.1rem;
+        width: 12rem;
+        background-color: rgba(0, 0, 0, 0.85);
+    }
+}
+
 .policy {
     font-size: 1.2rem;
+    margin-top: 2rem;
 
     &__highlight {
         display: inline;
